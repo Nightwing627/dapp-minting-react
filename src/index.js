@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Greeter from './artifacts/contracts/Greeter.sol/Greeter.json';
 
 ReactDOM.render(
   <React.StrictMode>
